@@ -5,6 +5,7 @@ Driven QA Engineer beginner seeking to join a friendly dev team.
 
 Eager to learn and apply testing skills. 
 Ready for hard work, teamwork, and new challenges! 
+
 Confident I can contribute to building high-quality products!
 
 You can contact me at
