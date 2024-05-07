@@ -10,7 +10,7 @@ Confident I can contribute to building high-quality products!
 
 You can contact me at
 
-[![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](icehotcold45@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gonago@uspu.su)
 [![Instagram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/driveshit)
 
 ### Skills
