@@ -1,13 +1,12 @@
 
-Junior QA Manual Engineer
+Hey, I'm Ivan! ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 -------------------------
-Driven QA Engineer beginner seeking to join a friendly dev team. 
+- Driven Junior QA Manual Engineer seeking to join a friendly dev team
+- Eager to learn and apply testing skills
+- Ready for hard work, teamwork, and new challenges! 
+- Confident I can contribute to building high-quality products!
 
-Eager to learn and apply testing skills. 
-Ready for hard work, teamwork, and new challenges! 
-
-Confident I can contribute to building high-quality products!
-
+You can check my full CV by the [link](https://cv.hexlet.io/ru/resumes/3793)
 
 
 
